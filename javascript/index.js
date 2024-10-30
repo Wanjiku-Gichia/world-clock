@@ -35,6 +35,7 @@ function updateCity(event) {
       "h:mm:ss"
     )} <small>${currentCityTime.format("A")}</small></div>
   </div>
+<a href="index.html">All cities</a>
   `;
 }
 
